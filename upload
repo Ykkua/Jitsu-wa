@@ -5,12 +5,12 @@
   "cover": "https://miammiam-team.org/wp-content/uploads/2020/12/4135878-03-194x300.jpg",
   "chapters": {
     "27": {
-      "Title": "",
-       "Volume": "4",
-      "Groups": {
+      "title": "",
+       "volume": "4",
+      "groups": {
         "MiamMiam Team": "/proxy/api/imgur/chapter/lGHB204/"
         },
-        "Last update": "1623336197"
+        "Last_updated": "1623336197"
       }
    }
   }
