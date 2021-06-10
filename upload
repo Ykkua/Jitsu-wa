@@ -5,9 +5,9 @@
   "cover": "https://miammiam-team.org/wp-content/uploads/2020/12/4135878-03-194x300.jpg",
   "chapters": {
     "27": {
-      "titre": "",
-       "Tome": "4",
-      "groups": {
+      "Title": "",
+       "Volume": "4",
+      "Groups": {
         "MiamMiam Team": "/proxy/api/imgur/chapter/lGHB204/"
         },
         "Last update": "1623336197"
