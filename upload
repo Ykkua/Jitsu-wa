@@ -6,9 +6,11 @@
   "chapters": {
     "27": {
       "title": "",
-       "Tome": "4",
+       "Volume": "4",
       "groups": {
         "MiamMiam Team": "/proxy/api/imgur/chapter/lGHB204/"
+        },
+        "last_updated": "1623336197"
       }
    }
   }
